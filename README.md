@@ -1,3 +1,4 @@
+> KNOWN ISSUE: MAY BROKEN QUICK CHARGE
 # Get the patched kernel image:
 
 > NOTE: prebuilt kernel image artifacts compiled with config from NamelessOS TQ2A.230505.002, follow steps below to build if using other OS.
